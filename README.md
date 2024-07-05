@@ -1,2 +1,2 @@
-# ps-scripts
-Repo for various Powershell scripts
+# scripts
+Repo for various Powershell / Bash scripts
